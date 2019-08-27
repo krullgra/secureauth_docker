@@ -9,5 +9,7 @@ IdpConfigurator/
 SecureAuth*/
 wwwroot/
 SecureStorageApi/
-Dockerfile2
 IIS.json
+idp/
+SecureAuth-Idp*
+.DS_Store
