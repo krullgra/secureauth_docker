@@ -1,0 +1,13 @@
+.vs/
+Admin/
+AnalyzeApi/
+Api/
+ApplicationApi/
+config/
+HttpProxy/
+IdpConfigurator/
+SecureAuth*/
+wwwroot/
+SecureStorageApi/
+Dockerfile2
+IIS.json
