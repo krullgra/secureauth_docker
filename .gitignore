@@ -12,4 +12,5 @@ SecureStorageApi/
 IIS.json
 idp/
 SecureAuth-Idp*
+web*.config
 .DS_Store
