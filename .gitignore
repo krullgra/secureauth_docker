@@ -1,16 +1,5 @@
 .vs/
-Admin/
-AnalyzeApi/
-Api/
-ApplicationApi/
-config/
-HttpProxy/
-IdpConfigurator/
-SecureAuth*/
-wwwroot/
-SecureStorageApi/
-IIS.json
 idp/
-SecureAuth-Idp*
+idp.zip
 web*.config
 .DS_Store
