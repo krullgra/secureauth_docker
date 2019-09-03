@@ -13,8 +13,6 @@ Not included in this repo:
 
 ---
 
----
-
 Example build:
 * `docker build -t your/image .`
 
