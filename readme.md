@@ -30,8 +30,11 @@ Reference: https://github.com/StefanScherer/windows-docker-machine
 Example build:
 * `docker build -t your/image .`
 
+Create folder on host docker system. Multiple SA containers will use the same realms:
+* `mkdir C:\data`
+
 Example execution:
-* `docker run -d -p 80:80 -p 443:443 --name secureauth -e sa_key='your_code_here' your/image:latest`
+* `docker run -v C:/data:c:/data -d -p 80:80 -p 443:443 --name secureauth -e sa_key='your_code_here' your/image:latest`
 
 ---
 
