@@ -1,5 +1,8 @@
 # SecureAuth Docker
 
+NOTE: No longer maintained
+
+---
 Dockerfied SecureAuth Intelligent Identity Cloud allows you to quickly setup and deploy a containerized SecureAuth server.
 
 The following environment variables are supported
@@ -7,10 +10,8 @@ The following environment variables are supported
 *   `sa_key` - The SecureAuth Activation Code for your deployment.
 
 ---
-
 Not included in this repo:
 - Please contact SecureAuth support for the idp.zip file
-
 ---
 
 SecureAuth Docker is a Windows container, and as such requires to be run against Docker on Windows. For non-Windows users,
